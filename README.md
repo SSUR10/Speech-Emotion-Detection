@@ -22,8 +22,8 @@ This project is a Streamlit web application that performs speech emotion detecti
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SSUR10/Speech-Emotion-Recognition.git
-   cd Speech-Emotion-Recognition
+   git clone https://github.com/SSUR10/Speech-Emotion-Detection.git
+   cd Speech-Emotion-Detection
    ```
 
 2. Install the required dependencies:
